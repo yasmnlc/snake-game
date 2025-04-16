@@ -1,18 +1,7 @@
-## Getting Started
+# Snake Game em Java 🐍
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto é uma implementação do clássico jogo da cobrinha, desenvolvido em Java como parte da disciplina de **Programação Orientada a Objetos**, no segundo semestre de bacharelado em Ciência da Computação (2023.2). O jogo foi construído com foco em aplicar os conceitos de orientação a objetos, como encapsulamento, herança e polimorfismo, em um projeto prático e divertido.
 
-## Folder Structure
+## 🎯 Objetivo do Jogo
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Controle a cobrinha para comer a comida que aparece na tela. A cada comida ingerida, a cobrinha cresce. O jogo termina quando a cobrinha colide com as paredes ou com ela mesma.
